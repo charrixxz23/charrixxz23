@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="360" viewBox="0 0 1500 360" role="img" aria-labelledby="title desc">
+  <title id="title">Richard Anthony Smith — Computer Systems Engineering Student</title>
+  <desc id="desc">A white, navy and royal blue academic technology banner with a gold-accented RS monogram, data network and original geometric details.</desc>
+  <rect width="1500" height="360" fill="#FFFFFF"/>
+  <path d="M0 25H1500" stroke="#C8A24A" stroke-width="3"/><path d="M0 335H1500" stroke="#0B1F3A" stroke-width="2"/>
+  <path d="M1012 25H1500V335H900L1008 227Z" fill="#0B1F3A"/>
+  <path d="M1012 25 912 125 1012 225 912 325M1078 25 978 125 1078 225 978 325M1138 25 1038 125 1138 225 1038 325M1200 25 1100 125 1200 225 1100 325M1260 25 1160 125 1260 225 1160 325M1320 25 1220 125 1320 225 1220 325M1380 25 1280 125 1380 225 1280 325M1440 25 1340 125 1440 225 1340 325" fill="none" stroke="#00529F" stroke-width="1.5" opacity=".78"/>
+  <path d="M1010 94H1460M975 142H1425M943 190H1392M930 238H1360M930 286H1325" fill="none" stroke="#00529F" stroke-width="1.4" opacity=".8"/>
+  <g fill="#C8A24A"><circle cx="1080" cy="94" r="4"/><circle cx="1190" cy="142" r="4"/><circle cx="1282" cy="190" r="4"/><circle cx="1172" cy="238" r="4"/><circle cx="1325" cy="286" r="4"/><circle cx="1460" cy="94" r="4"/></g>
+  <g fill="#FFFFFF" opacity=".78"><circle cx="1140" cy="94" r="2.5"/><circle cx="1370" cy="142" r="2.5"/><circle cx="1090" cy="238" r="2.5"/><circle cx="1400" cy="286" r="2.5"/><circle cx="1260" cy="94" r="2.5"/></g>
+  <path d="M1034 70h64v35h-64zM1390 260h70v40h-70z" fill="none" stroke="#A7A9AC" stroke-width="1" opacity=".45"/>
+  <text x="1064" y="93" fill="#FFFFFF" font-family="Consolas, 'Courier New', monospace" font-size="12">SELECT insights</text><text x="1404" y="284" fill="#FFFFFF" font-family="Consolas, 'Courier New', monospace" font-size="12">RS / 01</text>
+  <g transform="translate(90 77)">
+    <circle cx="92" cy="103" r="77" fill="#0B1F3A"/><circle cx="92" cy="103" r="70" fill="none" stroke="#C8A24A" stroke-width="2.5"/>
+    <path d="M58 62 40 103l18 41M126 62l18 41-18 41" fill="none" stroke="#00529F" stroke-width="4"/>
+    <text x="92" y="119" text-anchor="middle" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" letter-spacing="2">RS</text><path d="M17 103H0M184 103h18" stroke="#C8A24A" stroke-width="2"/>
+  </g>
+  <text x="315" y="116" fill="#171717" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="700" letter-spacing="1.2">RICHARD ANTHONY SMITH</text>
+  <path d="M317 139H884" stroke="#C8A24A" stroke-width="3"/>
+  <text x="317" y="181" fill="#0B1F3A" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="1">COMPUTER SYSTEMS ENGINEERING STUDENT</text>
+  <text x="317" y="218" fill="#555B63" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing=".3">Universidad Tecnológica de Panamá · FISC · Panamá</text>
+  <text x="317" y="270" fill="#00529F" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">SOFTWARE DEVELOPMENT</text><circle cx="514" cy="264" r="3.5" fill="#C8A24A"/>
+  <text x="532" y="270" fill="#00529F" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">DATA ANALYTICS</text><circle cx="680" cy="264" r="3.5" fill="#C8A24A"/>
+  <text x="698" y="270" fill="#00529F" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">MACHINE LEARNING</text>
+  <path d="M317 296H850" stroke="#A7A9AC" stroke-width="1"/><text x="317" y="319" fill="#6E747B" font-family="Consolas, 'Courier New', monospace" font-size="13">from projects import practical_solutions</text>
+</svg>
